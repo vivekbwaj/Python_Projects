@@ -1,0 +1,23 @@
+{
+"toDoEdit":
+      {
+      	"locator":"model",
+	    "value":"todoList.todoText"
+	  },
+"addBtn":
+      {
+      	"locator":"css",
+        "value":"[value=\"add\"]"
+      },
+"todoList":
+      {
+      	"locator":"repeater",
+        "value":"todo in todoList.todos"
+      },
+
+"completedAmount":
+      {
+      	"locator":"css",
+        "value":".done-true"
+      }
+}

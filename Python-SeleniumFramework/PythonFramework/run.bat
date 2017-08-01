@@ -1,0 +1,1 @@
+cmd /K "py.test -v -s tests/home/login-tests.py --html=report.html"

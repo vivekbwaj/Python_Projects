@@ -1,0 +1,12 @@
+MainPage:
+  BeforeLoginPageTitle: {PageTitle: "Login | Salesforce"}
+  Username: {Selector: "{:id=>'username'}", Type: text_field}
+  SellProducts: {value: "cccc", locator: "dddd"}
+
+Language:
+  a: {Java: "TestNG"}
+  b: {Ruby: "Rspec"}
+  c: {CSharp: "Specflow"}
+
+Browser: "FIREFOX"
+URL: "http://selenium-python.readthedocs.io/"

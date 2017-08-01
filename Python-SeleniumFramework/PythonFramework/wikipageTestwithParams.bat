@@ -1,0 +1,1 @@
+cmd /K "py.test -v -s tests/wiki/test_wiki_page.py --browser firefox --html=report.html"

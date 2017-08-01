@@ -1,0 +1,5 @@
+MainPage:
+   SearchProducts: {value: "q", locator: "name"}
+   SellProducts: {value: "Sell on Flipkart", locator: "link_text"}
+  
+

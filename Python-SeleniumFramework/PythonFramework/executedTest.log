@@ -1,0 +1,70 @@
+07/30/2017 07:10:54 PM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+07/30/2017 07:10:54 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+07/30/2017 07:10:54 PM - utils - INFO: ### VERIFICATION CONTAINS !!!
+07/30/2017 07:10:57 PM - LoginPage - INFO: Element not found with locator: user-icon and  locatorType: class
+07/30/2017 08:01:25 PM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+07/30/2017 08:01:25 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+07/30/2017 08:01:25 PM - utils - INFO: ### VERIFICATION CONTAINS !!!
+07/30/2017 08:01:25 PM - LoginPage - INFO: Element found with locator: login_login_username and  locatorType: id
+07/30/2017 08:01:25 PM - LoginPage - INFO: Sent data on element with locator: login_login_username locatorType: id
+07/30/2017 08:01:25 PM - LoginPage - INFO: Element found with locator: login_login_password and  locatorType: id
+07/30/2017 08:01:25 PM - LoginPage - INFO: Sent data on element with locator: login_login_password locatorType: id
+07/30/2017 08:01:25 PM - LoginPage - INFO: Element found with locator: login_submit and  locatorType: id
+07/30/2017 08:01:29 PM - LoginPage - INFO: Clicked on element with locator: login_submit locatorType: id
+07/30/2017 08:01:29 PM - LoginPage - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFramework\base\../screenshots/Pages.Home.Login_Page.1501408889511.png
+07/30/2017 08:01:29 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/30/2017 08:01:29 PM - LoginPage - INFO: Element Found
+07/30/2017 08:01:29 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/30/2017 08:01:29 PM - LoginPage - INFO: Element found with locator: user-icon and  locatorType: class
+07/30/2017 08:05:07 PM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+07/30/2017 08:05:07 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+07/30/2017 08:05:07 PM - utils - INFO: ### VERIFICATION CONTAINS !!!
+07/30/2017 08:05:07 PM - LoginPage - INFO: Element found with locator: login_login_username and  locatorType: id
+07/30/2017 08:05:07 PM - LoginPage - INFO: Sent data on element with locator: login_login_username locatorType: id
+07/30/2017 08:05:07 PM - LoginPage - INFO: Element found with locator: login_login_password and  locatorType: id
+07/30/2017 08:05:07 PM - LoginPage - INFO: Sent data on element with locator: login_login_password locatorType: id
+07/30/2017 08:05:07 PM - LoginPage - INFO: Element found with locator: login_submit and  locatorType: id
+07/30/2017 08:05:11 PM - LoginPage - INFO: Clicked on element with locator: login_submit locatorType: id
+07/30/2017 08:05:11 PM - LoginPage - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFramework\base\../screenshots/Pages.Home.Login_Page.1501409111904.png
+07/30/2017 08:05:12 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/30/2017 08:05:12 PM - LoginPage - INFO: Element Found
+07/30/2017 08:05:12 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/30/2017 08:05:12 PM - LoginPage - INFO: Element found with locator: user-icon and  locatorType: class
+07/30/2017 08:07:48 PM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+07/30/2017 08:07:48 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+07/30/2017 08:07:48 PM - utils - INFO: ### VERIFICATION CONTAINS !!!
+07/30/2017 08:07:48 PM - LoginPage - INFO: Element found with locator: login_login_username and  locatorType: id
+07/30/2017 08:07:48 PM - LoginPage - INFO: Sent data on element with locator: login_login_username locatorType: id
+07/30/2017 08:07:48 PM - LoginPage - INFO: Element found with locator: login_login_password and  locatorType: id
+07/30/2017 08:07:48 PM - LoginPage - INFO: Sent data on element with locator: login_login_password locatorType: id
+07/30/2017 08:07:48 PM - LoginPage - INFO: Element found with locator: login_submit and  locatorType: id
+07/30/2017 08:07:52 PM - LoginPage - INFO: Clicked on element with locator: login_submit locatorType: id
+07/30/2017 08:07:52 PM - LoginPage - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFramework\base\../screenshots/Pages.Home.Login_Page.1501409272736.png
+07/30/2017 08:07:52 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/30/2017 08:07:52 PM - LoginPage - INFO: Element Found
+07/30/2017 08:07:52 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/30/2017 08:07:52 PM - LoginPage - INFO: Element found with locator: user-icon and  locatorType: class
+07/30/2017 10:09:19 PM - utils - INFO: Actual Text From Application Web UI --> :: BDD Automation : Behave with Python | Udemy
+07/30/2017 10:09:19 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+07/30/2017 10:09:19 PM - utils - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+07/30/2017 10:09:26 PM - LoginPage - INFO: Element not found with locator: login_login_username and  locatorType: id
+07/30/2017 10:09:26 PM - LoginPage - INFO: Cannot send data on the element with locator: login_login_username locatorType: id
+07/30/2017 10:09:26 PM - LoginPage - INFO: Element not found with locator: login_login_password and  locatorType: id
+07/30/2017 10:09:26 PM - LoginPage - INFO: Cannot send data on the element with locator: login_login_password locatorType: id
+07/30/2017 10:09:26 PM - LoginPage - INFO: Element not found with locator: login_submit and  locatorType: id
+07/30/2017 10:09:26 PM - LoginPage - INFO: Cannot click on the element with locator: login_submit locatorType: id
+07/30/2017 10:09:26 PM - LoginPage - ERROR: ### Exception Occurred when taking screenshot
+07/31/2017 04:31:26 PM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+07/31/2017 04:31:26 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+07/31/2017 04:31:26 PM - utils - INFO: ### VERIFICATION CONTAINS !!!
+07/31/2017 04:31:26 PM - LoginPage - INFO: Element found with locator: login_login_username and  locatorType: id
+07/31/2017 04:31:26 PM - LoginPage - INFO: Sent data on element with locator: login_login_username locatorType: id
+07/31/2017 04:31:27 PM - LoginPage - INFO: Element found with locator: login_login_password and  locatorType: id
+07/31/2017 04:31:27 PM - LoginPage - INFO: Sent data on element with locator: login_login_password locatorType: id
+07/31/2017 04:31:27 PM - LoginPage - INFO: Element found with locator: login_submit and  locatorType: id
+07/31/2017 04:31:30 PM - LoginPage - INFO: Clicked on element with locator: login_submit locatorType: id
+07/31/2017 04:31:31 PM - LoginPage - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFramework\base\../screenshots/Pages.Home.Login_Page.1501482690994.png
+07/31/2017 04:31:31 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/31/2017 04:31:31 PM - LoginPage - INFO: Element Found
+07/31/2017 04:31:31 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+07/31/2017 04:31:31 PM - LoginPage - INFO: Element found with locator: user-icon and  locatorType: class

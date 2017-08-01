@@ -1,0 +1,6 @@
+Feature: Open website and print title # features\first_selenium.feature:1
+
+  Scenario: Open website          # features\first_selenium.feature:2
+    Given I open flipkart website # features\steps\first_selenium.py:6
+    Then I print the title        # features\steps\first_selenium.py:10
+
