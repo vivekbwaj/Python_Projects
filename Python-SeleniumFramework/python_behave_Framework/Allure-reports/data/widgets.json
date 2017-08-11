@@ -1,0 +1,69 @@
+{
+  "summary" : {
+    "reportName" : "Allure Report",
+    "testRuns" : [ ],
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "time" : {
+      "start" : 1502423524133,
+      "stop" : 1502423532665,
+      "duration" : 8532,
+      "minDuration" : 5,
+      "maxDuration" : 4495,
+      "sumDuration" : 7742
+    }
+  },
+  "environment" : [ ],
+  "suites" : {
+    "total" : 5,
+    "items" : [ ]
+  },
+  "history-trend" : [ {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ],
+  "behaviors" : {
+    "total" : 2,
+    "items" : [ {
+      "uid" : "64ff59f9a7f47009a7d58874e9c48fa5",
+      "name" : "test scenario outline",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      }
+    }, {
+      "uid" : "13498e0faad7ff997c8c682b58a2df15",
+      "name" : "As a user I want to test the login functionality",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      }
+    } ]
+  },
+  "executors" : [ ],
+  "categories" : {
+    "total" : 0,
+    "items" : [ ]
+  },
+  "launches" : [ ]
+}

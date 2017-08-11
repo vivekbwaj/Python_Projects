@@ -1,0 +1,98 @@
+{
+  "uid" : "fafd180c29763171",
+  "name" : "Blenders",
+  "historyId" : "2eab1da2d005c97f7461004e14338462",
+  "time" : {
+    "start" : 1502422952807,
+    "stop" : 1502422952812,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I put iPhone in a blender,",
+      "time" : {
+        "start" : 1502422952809,
+        "stop" : 1502422952810,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I switch the blender on",
+      "time" : {
+        "start" : 1502422952810,
+        "stop" : 1502422952810,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then it should transform into toxic waste",
+      "time" : {
+        "start" : 1502422952811,
+        "stop" : 1502422952811,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test scenario outline"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  } ],
+  "parameters" : [ {
+    "name" : "other thing",
+    "value" : "toxic waste"
+  }, {
+    "name" : "thing",
+    "value" : "iPhone"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "source" : "fafd180c29763171.json",
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ "toxic waste", "iPhone" ]
+}

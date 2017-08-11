@@ -9,4 +9,4 @@ class Test_Class():
 
         # py.test - v - s testname.py
         # naming convention is important here when running tests using pytest
-        # http: // pytest.readthedocs.io / en / reorganize - docs / new - docs / user / naming_conventions.html
+# http: // pytest.readthedocs.io / en / reorganize - docs / new - docs / user / naming_conventions.html

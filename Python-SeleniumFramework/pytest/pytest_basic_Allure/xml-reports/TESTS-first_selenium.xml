@@ -1,0 +1,11 @@
+<testsuite errors="0" failures="0" name="first_selenium.Open website and print title" skipped="0" tests="1" time="12.614637"><testcase classname="first_selenium.Open website and print title" name="Open website" status="passed" time="12.614637"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Open website
+    Given I open flipkart website ... passed in 8.956s
+    Then I print the title ... passed in 3.659s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

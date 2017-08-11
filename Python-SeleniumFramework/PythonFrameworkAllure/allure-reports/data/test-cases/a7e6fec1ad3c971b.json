@@ -1,0 +1,80 @@
+{
+  "uid" : "a7e6fec1ad3c971b",
+  "name" : "Test_LoginCases.test_validLogin",
+  "fullName" : "tests.TestSuite.Test_LoginCases.test_validLogin",
+  "historyId" : "7c4ee6a995f8eb077cd27b7629b9b087",
+  "time" : {
+    "start" : 1501639297452,
+    "stop" : 1501639301117,
+    "duration" : 3665
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87dffa9dffdff9b4",
+      "name" : "Captured stdout setup",
+      "source" : "87dffa9dffdff9b4.txt",
+      "type" : "text/plain",
+      "size" : 27
+    }, {
+      "uid" : "66485d7f9ddcf21d",
+      "name" : "Captured stdout call",
+      "source" : "66485d7f9ddcf21d.txt",
+      "type" : "text/plain",
+      "size" : 49
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-TUDN7RB"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "11876-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestSuite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_LoginCases.test_validLogin"
+  }, {
+    "name" : "package",
+    "value" : "tests.TestSuite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7e6fec1ad3c971b.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

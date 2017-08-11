@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Blenders",
+    "uid" : "3dd1c6b26f9d4180",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1502423524148,
+      "stop" : 1502423524153,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "parameters" : [ "toxin", "Galaxy Nexus" ]
+  }, {
+    "name" : "Blenders",
+    "uid" : "9f0b2c39797b827e",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1502423524140,
+      "stop" : 1502423524145,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "parameters" : [ "toxic waste", "iPhone" ]
+  }, {
+    "name" : "Login to the demo website",
+    "uid" : "7b239726b652729d",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1502423524935,
+      "stop" : 1502423529430,
+      "duration" : 4495
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Navigate to user profile page",
+    "uid" : "e4870362124cbe41",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1502423529433,
+      "stop" : 1502423532665,
+      "duration" : 3232
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Blenders",
+    "uid" : "88f65f1f0db4974b",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "passed",
+    "time" : {
+      "start" : 1502423524133,
+      "stop" : 1502423524138,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "parameters" : [ "mush", "Red Tree Frog" ]
+  } ]
+}

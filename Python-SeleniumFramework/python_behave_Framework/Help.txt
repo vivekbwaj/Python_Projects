@@ -1,2 +1,6 @@
 installations:
 pyyml is for python to .yml file interaction
+
+>  Want to see what behave is doing in attempting to find your features use the “-v” (verbose) command-line switch.
+   i.e behave -v
+>

@@ -1,5 +1,10 @@
-MainPage:
-   SearchProducts: {value: "q", locator: "name"}
-   SellProducts: {value: "Sell on Flipkart", locator: "link_text"}
-  
+LoginPage:
+   username: {value: "login_login_username", locator: "id"}
+   password: {value: "login_login_password", locator: "id"}
+   loginButton: {value: "login_submit", locator: "id"}
 
+Dashboard:
+   profileUserIcon: {value: "user-icon", locator: "class"}
+  
+ProfilePage:
+   userTitleSection: {value: "h3", locator: "tag"}

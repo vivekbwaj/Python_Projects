@@ -1,2 +1,4 @@
 Browser: "firefox"
-URL: "http://selenium-python.readthedocs.io/"
+URL: "https://demo.mahara.org/"
+UserName: "admin"
+Password: "MaharaDemo"

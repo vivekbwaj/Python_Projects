@@ -1,0 +1,1 @@
+cmd /K "behave -f allure_behave.formatter:AllureFormatter -o E:\Python-SeleniumFramework\python_behave_Framework\Allure-JsonFiles features"

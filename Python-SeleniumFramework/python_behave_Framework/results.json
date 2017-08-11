@@ -1,6 +1,309 @@
-Feature: Open website and print title # features\first_selenium.feature:1
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario Outline",
+      "location": "features\\demo_SOutExamples.feature:10",
+      "name": "Blenders -- @1.1 Amphibians",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\demo_SOutExamples.feature:4",
+          "match": {
+            "arguments": [
+              {
+                "name": "item_thing",
+                "value": "Red Tree Frog"
+              }
+            ],
+            "location": "features\\steps\\demo_SOutExamples.py:5"
+          },
+          "name": "I put Red Tree Frog in a blender,",
+          "result": {
+            "duration": 0.0020132064819335938,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\demo_SOutExamples.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\demo_SOutExamples.py:9"
+          },
+          "name": "I switch the blender on",
+          "result": {
+            "duration": 0.000997781753540039,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\demo_SOutExamples.feature:6",
+          "match": {
+            "arguments": [
+              {
+                "name": "item_other",
+                "value": "mush"
+              }
+            ],
+            "location": "features\\steps\\demo_SOutExamples.py:13"
+          },
+          "name": "it should transform into mush",
+          "result": {
+            "duration": 0.0010027885437011719,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario Outline",
+      "location": "features\\demo_SOutExamples.feature:14",
+      "name": "Blenders -- @2.1 Consumer Electronics",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\demo_SOutExamples.feature:4",
+          "match": {
+            "arguments": [
+              {
+                "name": "item_thing",
+                "value": "iPhone"
+              }
+            ],
+            "location": "features\\steps\\demo_SOutExamples.py:5"
+          },
+          "name": "I put iPhone in a blender,",
+          "result": {
+            "duration": 0.0010194778442382812,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\demo_SOutExamples.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\demo_SOutExamples.py:9"
+          },
+          "name": "I switch the blender on",
+          "result": {
+            "duration": 0.0009779930114746094,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\demo_SOutExamples.feature:6",
+          "match": {
+            "arguments": [
+              {
+                "name": "item_other",
+                "value": "toxic waste"
+              }
+            ],
+            "location": "features\\steps\\demo_SOutExamples.py:13"
+          },
+          "name": "it should transform into toxic waste",
+          "result": {
+            "duration": 0.0010156631469726562,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario Outline",
+      "location": "features\\demo_SOutExamples.feature:15",
+      "name": "Blenders -- @2.2 Consumer Electronics",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\demo_SOutExamples.feature:4",
+          "match": {
+            "arguments": [
+              {
+                "name": "item_thing",
+                "value": "Galaxy Nexus"
+              }
+            ],
+            "location": "features\\steps\\demo_SOutExamples.py:5"
+          },
+          "name": "I put Galaxy Nexus in a blender,",
+          "result": {
+            "duration": 0.0010023117065429688,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\demo_SOutExamples.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\demo_SOutExamples.py:9"
+          },
+          "name": "I switch the blender on",
+          "result": {
+            "duration": 0.0,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\demo_SOutExamples.feature:6",
+          "match": {
+            "arguments": [
+              {
+                "name": "item_other",
+                "value": "toxin"
+              }
+            ],
+            "location": "features\\steps\\demo_SOutExamples.py:13"
+          },
+          "name": "it should transform into toxin",
+          "result": {
+            "duration": 0.0,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\demo_SOutExamples.feature:1",
+  "name": "test scenario outline",
+  "status": "skipped",
+  "tags": []
+},
 
-  Scenario: Open website          # features\first_selenium.feature:2
-    Given I open flipkart website # features\steps\first_selenium.py:6
-    Then I print the title        # features\steps\first_selenium.py:10
-
+{
+  "description": [
+    "and much more"
+  ],
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features\\first_selenium.feature:3",
+      "name": "Login to the demo website",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\first_selenium.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\reusableSteps.py:13"
+          },
+          "name": "the user is on login page",
+          "result": {
+            "duration": 0.014034748077392578,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\first_selenium.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\first_selenium.py:10"
+          },
+          "name": "the user enters the credentials and logs in",
+          "result": {
+            "duration": 4.470036029815674,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\first_selenium.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\reusableSteps.py:22"
+          },
+          "name": "he should land on the correct page",
+          "result": {
+            "duration": 0.008401155471801758,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features\\first_selenium.feature:8",
+      "name": "Navigate to user profile page",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features\\first_selenium.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\reusableSteps.py:32"
+          },
+          "name": "the user is on dashboard page",
+          "result": {
+            "duration": 0.007021188735961914,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features\\first_selenium.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\first_selenium.py:16"
+          },
+          "name": "user clicks the user profile icon",
+          "result": {
+            "duration": 3.1786561012268066,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features\\first_selenium.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features\\steps\\reusableSteps.py:41"
+          },
+          "name": "he should land on the correct profile page",
+          "result": {
+            "duration": 0.041112422943115234,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features\\first_selenium.feature:1",
+  "name": "As a user I want to test the login functionality",
+  "status": "passed",
+  "tags": []
+}
+]

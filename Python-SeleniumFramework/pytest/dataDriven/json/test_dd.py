@@ -11,6 +11,6 @@ class Test_Class_1(unittest.TestCase):
     def test_py_1(self,a):
         for x in a:
             print(x)
-            
+
 
 

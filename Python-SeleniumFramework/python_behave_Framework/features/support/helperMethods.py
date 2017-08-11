@@ -17,18 +17,20 @@ def getByType(locatorType):
         return By.XPATH
     elif locatorType == "css":
         return By.CSS_SELECTOR
-    elif locatorType == "classname":
+    elif locatorType == "class":
         return By.CLASS_NAME
     elif locatorType == "link_text":
         return By.LINK_TEXT
+    elif locatorType == "tag":
+        return By.TAG_NAME
     else:
         print("Locator type " + locatorType + " not correct/supported")
     return False
 
 
-def isExpectedTitle(context):
+def isExpectedTitle(context,keyword):
     wait=WebDriverWait(context.browser,10,1)
-    return wait.until(EC.title_is("Kode"))
+    return wait.until(EC.title_is(keyword))
 
 def isExpectedTitleContains(context,expectedText):
     wait=WebDriverWait(context.browser,10,1)

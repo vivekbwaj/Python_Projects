@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 #json read object
-my_read_json=pd.read_json("myjson.json")
+my_read_json=pd.read_json("results.json")
 
 #json to html
 pdhtml=pd.DataFrame.to_html(my_read_json)

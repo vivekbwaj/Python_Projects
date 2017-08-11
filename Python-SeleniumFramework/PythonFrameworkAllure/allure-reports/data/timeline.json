@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-TUDN7RB",
+    "children" : [ {
+      "name" : "11876-MainThread",
+      "children" : [ {
+        "name" : "Test_LoginCases.test_validLogin",
+        "uid" : "a7e6fec1ad3c971b",
+        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1501639297452,
+          "stop" : 1501639301117,
+          "duration" : 3665
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_LoginCases.test_goToProfile",
+        "uid" : "f62c9f340d4808e0",
+        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1501639301120,
+          "stop" : 1501639303647,
+          "duration" : 2527
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_WikiPageCases.test_SearchContent",
+        "uid" : "bd69699c55fb797f",
+        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1501639304383,
+          "stop" : 1501639329395,
+          "duration" : 25012
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_LoginCases.test_TitleCheck",
+        "uid" : "81803cc3c5de2300",
+        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1501639285485,
+          "stop" : 1501639297449,
+          "duration" : 11964
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a598017ec5234219d2805151720a1bf9"
+    } ],
+    "uid" : "dfa269fec2147816f1cc79b04f6483a8"
+  } ]
+}

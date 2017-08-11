@@ -1,18 +1,21 @@
 from behave import *
 from features.support import helperMethods as hm
+import yaml
+
+p_stream = open('E:\Python-SeleniumFramework\python_behave_Framework\Params.YML', 'r')
+p_data=yaml.load(p_stream)
 
 # use_step_matcher("re")
 
-@given('I open flipkart website')
+@when('the user enters the credentials and logs in')
 def step_impl(context):
-    context.browser.get("https://www.flipkart.com/")
+    hm.element(context,"LoginPage","username").send_keys(p_data["UserName"])
+    hm.element(context, "LoginPage", "password").send_keys(p_data["Password"])
+    hm.element(context,"LoginPage","loginButton").click()
 
-@then('I print the title')
+@when('user clicks the user profile icon')
 def step_impl(context):
-   if hm.isExpectedTitleContains(context, "Shopping"):
-       hm.element(context, "MainPage", "SearchProducts").send_keys("some text")
-       hm.element(context,"MainPage","SellProducts").click()
-
+    hm.element(context,"Dashboard","profileUserIcon").click()
 
 
 
