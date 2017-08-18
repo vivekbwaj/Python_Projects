@@ -1,0 +1,1 @@
+cmd /K "python SET1.py"

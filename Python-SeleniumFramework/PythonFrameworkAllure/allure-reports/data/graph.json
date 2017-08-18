@@ -1,40 +1,40 @@
 [ {
-  "uid" : "81803cc3c5de2300",
-  "name" : "Test_LoginCases.test_TitleCheck",
-  "time" : {
-    "start" : 1501639285485,
-    "stop" : 1501639297449,
-    "duration" : 11964
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f62c9f340d4808e0",
+  "uid" : "5dfe85ce6189dfa0",
   "name" : "Test_LoginCases.test_goToProfile",
   "time" : {
-    "start" : 1501639301120,
-    "stop" : 1501639303647,
-    "duration" : 2527
+    "start" : 1502849509352,
+    "stop" : 1502849512439,
+    "duration" : 3087
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a7e6fec1ad3c971b",
+  "uid" : "a3decf7d95d2d664",
   "name" : "Test_LoginCases.test_validLogin",
   "time" : {
-    "start" : 1501639297452,
-    "stop" : 1501639301117,
-    "duration" : 3665
+    "start" : 1502849504209,
+    "stop" : 1502849509346,
+    "duration" : 5137
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "bd69699c55fb797f",
+  "uid" : "e4b3f56c638c43ce",
+  "name" : "Test_LoginCases.test_TitleCheck",
+  "time" : {
+    "start" : 1502849490657,
+    "stop" : 1502849504201,
+    "duration" : 13544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bda28af492f00478",
   "name" : "Test_WikiPageCases.test_SearchContent",
   "time" : {
-    "start" : 1501639304383,
-    "stop" : 1501639329395,
-    "duration" : 25012
+    "start" : 1502849513234,
+    "stop" : 1502849536927,
+    "duration" : 23693
   },
   "status" : "passed",
   "severity" : "normal"

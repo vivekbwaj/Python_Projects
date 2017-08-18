@@ -4,57 +4,57 @@
   "children" : [ {
     "name" : "DESKTOP-TUDN7RB",
     "children" : [ {
-      "name" : "11876-MainThread",
+      "name" : "12072-MainThread",
       "children" : [ {
-        "name" : "Test_LoginCases.test_validLogin",
-        "uid" : "a7e6fec1ad3c971b",
-        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "name" : "Test_LoginCases.test_TitleCheck",
+        "uid" : "e4b3f56c638c43ce",
+        "parentUid" : "1bef5498153a6e47323089551f2c1044",
         "status" : "passed",
         "time" : {
-          "start" : 1501639297452,
-          "stop" : 1501639301117,
-          "duration" : 3665
+          "start" : 1502849490657,
+          "stop" : 1502849504201,
+          "duration" : 13544
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Test_LoginCases.test_goToProfile",
-        "uid" : "f62c9f340d4808e0",
-        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "name" : "Test_LoginCases.test_validLogin",
+        "uid" : "a3decf7d95d2d664",
+        "parentUid" : "1bef5498153a6e47323089551f2c1044",
         "status" : "passed",
         "time" : {
-          "start" : 1501639301120,
-          "stop" : 1501639303647,
-          "duration" : 2527
+          "start" : 1502849504209,
+          "stop" : 1502849509346,
+          "duration" : 5137
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
         "name" : "Test_WikiPageCases.test_SearchContent",
-        "uid" : "bd69699c55fb797f",
-        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "uid" : "bda28af492f00478",
+        "parentUid" : "1bef5498153a6e47323089551f2c1044",
         "status" : "passed",
         "time" : {
-          "start" : 1501639304383,
-          "stop" : 1501639329395,
-          "duration" : 25012
+          "start" : 1502849513234,
+          "stop" : 1502849536927,
+          "duration" : 23693
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Test_LoginCases.test_TitleCheck",
-        "uid" : "81803cc3c5de2300",
-        "parentUid" : "a598017ec5234219d2805151720a1bf9",
+        "name" : "Test_LoginCases.test_goToProfile",
+        "uid" : "5dfe85ce6189dfa0",
+        "parentUid" : "1bef5498153a6e47323089551f2c1044",
         "status" : "passed",
         "time" : {
-          "start" : 1501639285485,
-          "stop" : 1501639297449,
-          "duration" : 11964
+          "start" : 1502849509352,
+          "stop" : 1502849512439,
+          "duration" : 3087
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a598017ec5234219d2805151720a1bf9"
+      "uid" : "1bef5498153a6e47323089551f2c1044"
     } ],
     "uid" : "dfa269fec2147816f1cc79b04f6483a8"
   } ]

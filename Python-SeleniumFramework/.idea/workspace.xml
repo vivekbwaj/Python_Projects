@@ -14,80 +14,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pageObjects.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/pageObjects/pageObjects.yml">
+      <file leaf-file-name="Get.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/presentation/api requests/Get.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graph.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/presentation/numpy/graph.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="environment.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/environment.py">
+      <file leaf-file-name="graph.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/presentation/numpy/graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllureReports.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_behave_Framework/AllureReports.bat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helperMethods.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/support/helperMethods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="first_selenium.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/steps/first_selenium.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="first_selenium.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/first_selenium.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo_SOutExamples.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/demo_SOutExamples.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reusableSteps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/steps/reusableSteps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -104,69 +70,74 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>xlrd</find>
+      <find>arti</find>
+      <find>log</find>
+      <find>captu</find>
+      <find>white</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python programs/pandas/pandajson.py" />
-        <option value="$PROJECT_DIR$/python programs/pandas/pandasjson.py" />
-        <option value="$PROJECT_DIR$/python programs/sel browsers/test1.py" />
-        <option value="$PROJECT_DIR$/PythonFramework/runWithParams - Copy.bat" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/excel/dd.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/csv/readData.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/csv/dd.py" />
-        <option value="$PROJECT_DIR$/python programs/yml python/one.yml" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/excel/dd_1.yml" />
-        <option value="$PROJECT_DIR$/python programs/yml python/readone.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/excel/util.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/excel/test_dd.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/json/readData.py" />
-        <option value="$PROJECT_DIR$/python programs/pandas/pandas_my.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/csv/test_dd.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/yaml_not working properly/util.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/yaml_not working properly/test_dd.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/yaml/util.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/json/readDataJ.py" />
-        <option value="$PROJECT_DIR$/pytest/dataDriven/json/test_dd.py" />
-        <option value="$PROJECT_DIR$/pytest/pytest_basic/test_runInClass.py" />
-        <option value="$PROJECT_DIR$/pytest/pytest_basic/test_UsingFixtures.py" />
-        <option value="$PROJECT_DIR$/pytest/pytest_basic2/test_runInClass.py" />
-        <option value="$PROJECT_DIR$/PythonFrameworkAllure/run.bat" />
-        <option value="$PROJECT_DIR$/PythonFrameworkAllure/runTestSuiteWithParamshtml.bat" />
-        <option value="$PROJECT_DIR$/PythonFrameworkAllure/runTestSuiteWithParams_HTML.bat" />
-        <option value="$PROJECT_DIR$/python programs/json to html/jsonFileHtml.py" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/behave.ini" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/run - Copy.bat" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/reports/Gen_AllureReport.bat" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/AllureReports.bat" />
         <option value="$PROJECT_DIR$/python_behave_Framework/Help.txt" />
         <option value="$PROJECT_DIR$/python programs/api_REST/POST_test.py" />
-        <option value="$PROJECT_DIR$/python programs/api_REST/Get_test.py" />
         <option value="$PROJECT_DIR$/python programs/api_REST/twitter_get.py" />
         <option value="$PROJECT_DIR$/python_behave_Framework/features/support/reusableMethods.py" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/Params.yml" />
         <option value="$PROJECT_DIR$/python_behave_Framework/features/support/reusableSteps.py" />
         <option value="$PROJECT_DIR$/python_behave_Framework/run_ToGenJSONFiles.bat" />
         <option value="$PROJECT_DIR$/python_behave_Framework/features/steps/demo_SOutExamples.py" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/features/demo_SOutExamples.feature" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/features/first_selenium.feature" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/features/steps/first_selenium.py" />
         <option value="$PROJECT_DIR$/python programs/numpy/tests.py" />
         <option value="$PROJECT_DIR$/python programs/numpy/listVSnumpy_SIZE.py" />
         <option value="$PROJECT_DIR$/python programs/numpy/listVSnumpy_fast.py" />
         <option value="$PROJECT_DIR$/python programs/numpy/operations.py" />
         <option value="$PROJECT_DIR$/python programs/numpy/graph.py" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/features/support/helperMethods.py" />
-        <option value="$PROJECT_DIR$/python_behave_Framework/pageObjects/pageObjects.yml" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/demo_SOutExamples.feature" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/support/CustomLogger.py" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/executionLog.log" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/behave.ini" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/logConfig.ini" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/mylogs.log" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/geckodriver.log" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/support/custom_logger.py" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/Params.yml" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/first_selenium.feature" />
         <option value="$PROJECT_DIR$/python_behave_Framework/features/steps/reusableSteps.py" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/environment.py" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/executedTest.log" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/pageObjects/pageObjects.yml" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/support/helperMethods.py" />
+        <option value="$PROJECT_DIR$/python_behave_Framework/features/steps/first_selenium.py" />
+        <option value="$PROJECT_DIR$/python programs/api_REST/Get_test.py" />
+        <option value="$PROJECT_DIR$/presentation/API_Get_wether.py" />
+        <option value="$PROJECT_DIR$/python programs/pandas/pandas_my.py" />
+        <option value="$PROJECT_DIR$/presentation/pandas json to html/jsonFileHtml.py" />
+        <option value="$PROJECT_DIR$/unittest/Testsuite/basic_methodLevel.py" />
+        <option value="$PROJECT_DIR$/presentation/Testsuite/UClass.py" />
+        <option value="$PROJECT_DIR$/unittest/Testsuite/basic_classLevel.py" />
+        <option value="$PROJECT_DIR$/presentation/Testsuite/UMethod.py" />
+        <option value="$PROJECT_DIR$/presentation/Testsuite/set2.py" />
+        <option value="$PROJECT_DIR$/presentation/Testsuite/set1.py" />
+        <option value="$PROJECT_DIR$/presentation/Testsuite/RunSuite.py" />
+        <option value="$PROJECT_DIR$/presentation/UnittestSUITE/SET1.bat" />
+        <option value="$PROJECT_DIR$/presentation/UnittestSUITE/SET2.bat" />
+        <option value="$PROJECT_DIR$/presentation/UnittestSUITE/RunSuite.py" />
+        <option value="$PROJECT_DIR$/presentation/UnittestSUITE/set1.py" />
+        <option value="$PROJECT_DIR$/presentation/UnittestSUITE/set2.py" />
+        <option value="$PROJECT_DIR$/presentation/UnittestSUITE/SUITE.bat" />
+        <option value="$PROJECT_DIR$/presentation/api requests/Get.bat" />
+        <option value="$PROJECT_DIR$/presentation/numpy/graph.bat" />
+        <option value="$PROJECT_DIR$/presentation/numpy/fast.bat" />
+        <option value="$PROJECT_DIR$/presentation/numpy/size.bat" />
+        <option value="$PROJECT_DIR$/presentation/numpy/graph.py" />
+        <option value="$PROJECT_DIR$/presentation/api requests/Get.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="width" value="1320" />
-    <option name="height" value="772" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -183,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,20 +165,25 @@
             <path>
               <item name="Python-SeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-SeleniumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="python_behave_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-SeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-SeleniumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="python_behave_Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="api requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-SeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-SeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,9 +192,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python-SeleniumFramework\setupProjectWithSetupPY" />
+      <recent name="E:\Python-SeleniumFramework\presentation" />
+      <recent name="E:\Python-SeleniumFramework\python_behave_Framework\features\support" />
+      <recent name="E:\Python-SeleniumFramework\python_behave_Framework" />
       <recent name="E:\Python-SeleniumFramework\pytest\dataDriven\excel" />
-      <recent name="E:\Python-SeleniumFramework\PythonFramework\configfiles" />
-      <recent name="E:\Python-SeleniumFramework\unittest\Testsuite" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python-SeleniumFramework\python_behave_Framework\features\steps" />
@@ -238,37 +217,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listVSnumpy_fast">
-    <configuration name="Get_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.graph">
+    <configuration name="Get" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programs/api_REST" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/presentation/api requests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-SeleniumFramework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programs/api_REST/Get_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="POST_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programs/api_REST" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-SeleniumFramework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programs/api_REST/POST_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/presentation/api requests/Get.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +300,36 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration name="jsonFileHtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programs/json to html" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/presentation/numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-SeleniumFramework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programs/json to html/jsonFileHtml.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/presentation/numpy/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="listVSnumpy_SIZE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/presentation/numpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-SeleniumFramework" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/presentation/numpy/listVSnumpy_SIZE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,12 +341,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programs/numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/presentation/numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-SeleniumFramework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programs/numpy/listVSnumpy_fast.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/presentation/numpy/listVSnumpy_fast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,38 +366,36 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest/dataDriven/json/test_dd.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="twitter_get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py.test in unittestclass.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programs/api_REST" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/presentation/unittest TestSuite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-SeleniumFramework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programs/api_REST/twitter_get.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/presentation/unittest TestSuite/unittestclass.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_dd.py (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.jsonFileHtml" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Get_test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.POST_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.twitter_get" />
-      <item index="5" class="java.lang.String" itemvalue="Python.listVSnumpy_fast" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in unittestclass.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.graph" />
+      <item index="3" class="java.lang.String" itemvalue="Python.listVSnumpy_SIZE" />
+      <item index="4" class="java.lang.String" itemvalue="Python.listVSnumpy_fast" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Get" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.listVSnumpy_fast" />
-        <item index="1" class="java.lang.String" itemvalue="Python.twitter_get" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Get_test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.POST_test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.jsonFileHtml" />
+        <item index="0" class="java.lang.String" itemvalue="Python.graph" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Get" />
+        <item index="2" class="java.lang.String" itemvalue="Python.listVSnumpy_fast" />
+        <item index="3" class="java.lang.String" itemvalue="Python.listVSnumpy_SIZE" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in unittestclass.py" />
       </list>
     </recent_temporary>
   </component>
@@ -436,20 +413,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_runInClass_Test_Class_test_py_2 - 2017.08.01 at 22h 55m 31s.xml">
-      <configuration name="py.test for test_runInClass.Test_Class.test_py_2" configurationId="tests" />
+    <history-entry file="py_test_in_basic_classLevel_py - 2017.08.16 at 10h 41m 54s.xml">
+      <configuration name="py.test in basic_classLevel.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_wiki_page_Test_WikiPageCases - 2017.08.02 at 11h 37m 24s.xml">
-      <configuration name="py.test for test_wiki_page.Test_WikiPageCases" configurationId="tests" />
+    <history-entry file="py_test_in_basic_classLevel_py - 2017.08.16 at 10h 42m 16s.xml">
+      <configuration name="py.test in basic_classLevel.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_login_tests_py - 2017.07.30 at 19h 58m 44s.xml">
-      <configuration name="py.test in login_tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_login_tests_py - 2017.07.30 at 19h 59m 22s.xml">
-      <configuration name="py.test in login_tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_login_tests_py - 2017.07.30 at 22h 25m 48s.xml">
-      <configuration name="py.test in login_tests.py" configurationId="tests" />
+    <history-entry file="py_test_in_basic_classLevel_py - 2017.08.16 at 10h 42m 51s.xml">
+      <configuration name="py.test in basic_classLevel.py" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_login_tests_py - 2017.07.30 at 22h 28m 17s.xml">
       <configuration name="py.test in login_tests.py" configurationId="tests" />
@@ -466,29 +437,34 @@
     <history-entry file="py_test_in_test_runInClass_py - 2017.08.01 at 22h 59m 01s.xml">
       <configuration name="py.test in test_runInClass.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_unittestclass_py - 2017.08.16 at 10h 44m 57s.xml">
+      <configuration name="py.test in unittestclass.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_unittestclass_py - 2017.08.16 at 10h 45m 27s.xml">
+      <configuration name="py.test in unittestclass.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1320" height="772" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1320" height="775" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25079367" sideWeight="0.48251748" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2888889" sideWeight="0.48251748" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27515724" sideWeight="0.5031746" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1120" height="572" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2738654" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27515724" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4918415" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6071988" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26190478" sideWeight="0.5174825" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26190478" sideWeight="0.5174825" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1120" height="572" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -507,7 +483,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="tests">
@@ -520,42 +496,29 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pytest/dataDriven/csv/test_dd.py">
+    <entry file="file://$PROJECT_DIR$/python programs/api_REST/Get_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/dataDriven/yaml/test_dd.py">
+    <entry file="file://$PROJECT_DIR$/python programs/api_REST/POST_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/dataDriven/json/readDataJ.py">
+    <entry file="file://$PROJECT_DIR$/python programs/api_REST/twitter_get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/dataDriven/json/test_dd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/dataDriven/json/myjson.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/presentation/API_Get_wether.py" />
+    <entry file="file://$PROJECT_DIR$/python programs/time/time.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -564,268 +527,306 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python programs/pandas/pandas_my.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="58" />
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/pytest_ordering/test_ordering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/pytest_basic/test_runInClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="103" lean-forward="false" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/pytest_basic/test_UsingFixtures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest/pytest_basic2/test_runInClass.py" />
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/run.bat" />
-    <entry file="file://$PROJECT_DIR$/PythonFramework/runTestSuiteWithParams.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/wikipageTestwithParams.bat" />
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/tests/conftest.py">
+    <entry file="file://$PROJECT_DIR$/python programs/xml to html/TESTS-first_selenium.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/tests/wiki/test_wiki_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/.cache/v/cache/lastfailed">
+    <entry file="file://$PROJECT_DIR$/python programs/json to html/helloworld.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/.idea/modules.xml" />
-    <entry file="file://$PROJECT_DIR$/PythonFramework - Copy/tests/TestSuite.py" />
-    <entry file="file://$PROJECT_DIR$/PythonFramework - Copy/tests/conftest.py" />
-    <entry file="file://$PROJECT_DIR$/PythonFramework - Copy/pages/wiki/wiki_page.py" />
+    <entry file="file://$PROJECT_DIR$/python programs/json to html/results.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python programs/json to html/jsonFileHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/pandas json to html/t.json" />
     <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/runTestSuiteWithParams_HTML.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <caret line="0" column="166" lean-forward="true" selection-start-line="0" selection-start-column="166" selection-end-line="0" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/loginPageTestWithParams.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/pandas json to html/jsonFileHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/runTestSuiteWithParamsXML.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="126" lean-forward="false" selection-start-line="0" selection-start-column="126" selection-end-line="0" selection-end-column="126" />
+          <caret line="0" column="127" lean-forward="false" selection-start-line="0" selection-start-column="127" selection-end-line="0" selection-end-column="127" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/json to html/jsonhtml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/json to html/jsonFileHtml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/run - Copy.bat" />
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/behave.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/reports/Gen_AllureReport.bat" />
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/Help.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/api_REST/Get_test.py">
+    <entry file="file://$PROJECT_DIR$/presentation/pandas json to html/test.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/api_REST/twitter_get.py">
+    <entry file="file://$PROJECT_DIR$/presentation/unittest TestSuite/unittestclass.py" />
+    <entry file="file://$PROJECT_DIR$/presentation/unittest TestSuite/class.bat" />
+    <entry file="file://$PROJECT_DIR$/unittest/Testsuite/basic_methodLevel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/api_REST/POST_test.py">
+    <entry file="file://$PROJECT_DIR$/presentation/UnittestSUITE/RunSET1.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/AllureReports.bat">
+    <entry file="file://$PROJECT_DIR$/presentation/UnittestSUITE/RunSET2.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/Testsuite/basic_classLevel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest/pytest_basic_Allure/test_runInClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest/pytest_conftest/test_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest/pytest_conftest/test_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest/pytest_conftest/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest/pytest_basic/test_UsingFixtures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest/pytest_basic/test_runInClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/UnittestSUITE/RunSUITE.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/py_conftest/test_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/listVSnumpy_SIZE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/py_conftest/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/executedTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_behave_Framework/executedTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/first_selenium.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/run-ToGenXMLOutputUsingJUnit.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="55" lean-forward="false" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/steps/demo_SOutExamples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/numpy/listVSnumpy_fast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/numpy/listVSnumpy_SIZE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/numpy/tests.py" />
-    <entry file="file://$PROJECT_DIR$/python programs/numpy/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python programs/numpy/operations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/run_ToGenJSONFiles.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="139" lean-forward="true" selection-start-line="0" selection-start-column="139" selection-end-line="0" selection-end-column="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/demo_SOutExamples.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/Params.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/steps/reusableSteps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFrameworkAllure/tests/home/login_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/first_selenium.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/environment.py">
+    <entry file="file://$PROJECT_DIR$/presentation/py_conftest/test_one.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/steps/first_selenium.py">
+    <entry file="file://$PROJECT_DIR$/presentation/pandas excel-json-html/excel-json-html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/pageObjects/pageObjects.yml">
+    <entry file="file://$PROJECT_DIR$/python_behave_Framework/requirements.text">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/listVSnumpy_fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/UnittestSUITE/set1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/UnittestSUITE/set2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/UnittestSUITE/RunSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/api requests/Get.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/size.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/fast.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setupProjectWithSetupPY/test1.py" />
+    <entry file="file://$PROJECT_DIR$/python_behave_Framework/AllureReports.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_behave_Framework/features/support/helperMethods.py">
+    <entry file="file://$PROJECT_DIR$/presentation/api requests/Get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/graph.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/numpy/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

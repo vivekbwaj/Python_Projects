@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint
 # units=metric is used for temp in celsius
-loc="3146,aus"
+loc="3000,aus"
 api_key="f0b5be6d019423d8251b9d6614df8ef9"
 temp_units="metric"
 res=requests.get("http://api.openweathermap.org/data/2.5/weather?q="+loc+"&APPID="+api_key+"&units="+temp_units+"")
@@ -12,11 +12,5 @@ print("Current temp: {},  Min temp:{}, Max temp:{}".format(respJ["main"]['temp']
 print(respJ["name"])
 print(respJ["weather"][0]["description"])
 
-
-# res=requests.get("https://jsonplaceholder.typicode.com/posts")
-# print(res)
-# # print(res.json())
-# for todo_item in res.json():
-#     print('{} {}'.format(todo_item['id'], todo_item['title']))
 
 

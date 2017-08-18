@@ -8,3 +8,4 @@ Dashboard:
   
 ProfilePage:
    userTitleSection: {value: "h3", locator: "tag"}
+   editProfilelink: {value: "Edit this page", locator: "link_text"}

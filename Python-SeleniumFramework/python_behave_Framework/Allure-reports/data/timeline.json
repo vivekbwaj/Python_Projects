@@ -2,64 +2,28 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "Login to the demo website",
-    "uid" : "7b239726b652729d",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1502423524935,
-      "stop" : 1502423529430,
-      "duration" : 4495
-    },
-    "flaky" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Blenders",
-    "uid" : "9f0b2c39797b827e",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1502423524140,
-      "stop" : 1502423524145,
-      "duration" : 5
-    },
-    "flaky" : false,
-    "parameters" : [ "toxic waste", "iPhone" ]
-  }, {
     "name" : "Navigate to user profile page",
-    "uid" : "e4870362124cbe41",
+    "uid" : "bd273ca9dac1718d",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1502423529433,
-      "stop" : 1502423532665,
-      "duration" : 3232
+      "start" : 1502849242483,
+      "stop" : 1502849245656,
+      "duration" : 3173
     },
     "flaky" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Blenders",
-    "uid" : "88f65f1f0db4974b",
+    "name" : "Login to the demo website",
+    "uid" : "a2381dafc9b52317",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1502423524133,
-      "stop" : 1502423524138,
-      "duration" : 5
+      "start" : 1502849238807,
+      "stop" : 1502849242481,
+      "duration" : 3674
     },
     "flaky" : false,
-    "parameters" : [ "mush", "Red Tree Frog" ]
-  }, {
-    "name" : "Blenders",
-    "uid" : "3dd1c6b26f9d4180",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1502423524148,
-      "stop" : 1502423524153,
-      "duration" : 5
-    },
-    "flaky" : false,
-    "parameters" : [ "toxin", "Galaxy Nexus" ]
+    "parameters" : [ ]
   } ]
 }
